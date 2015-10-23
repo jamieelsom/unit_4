@@ -67,12 +67,14 @@ img {
 	color: black;
 	display: inline-block;
 	margin:1.5em;
-	vertical-align: top;
+	vertical-align: middle;
 }
 .caption{
-	margin: 0 auto;
+
 	max-width: 31.25em;
+	max-height:; 31.25em;
 	text-align: justify;
+	border: 2px solid;
 }
 #featured{
 	background-color: white;
